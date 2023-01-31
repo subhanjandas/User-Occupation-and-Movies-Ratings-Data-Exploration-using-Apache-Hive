@@ -1,4 +1,4 @@
-# User, Occupation and Movies, Ratings Data Exploration using Hive 
+# User, Occupation and Movies, Ratings Data Exploration using Apache Hive 
 
 ## Introduction 
 In this project, the objective was to analyze the "User, Occupation, Movies, and Ratings" dataset using Apache Hive. The data was processed and analyzed using Hive's SQL-like query language and MapReduce framework, making it easier to handle large datasets. The focus of the analysis was to provide a comprehensive breakdown of the data and uncover key insights into user preferences and trends.
